@@ -265,4 +265,39 @@ padding-bottom: 30px;
     padding-right: 33px;
     padding-bottom: 30px;
 
+} 
+/* summery part last  */
+.summery{
+    text-align: center;
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 130px;
+}
+.resume-h{
+    margin-top: 113px;
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+.resume-h2{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.resume-t{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.resume-t2{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    max-width: 511px;
+    max-height: 84px;
+    margin-top: 20px;
 }
