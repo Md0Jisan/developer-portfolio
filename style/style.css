@@ -5,9 +5,21 @@
 /* background color */
 .headers{
     background-color:#FFF8F3;
-    background-image: url(../images/header_bg.png),url(../images/developer.png);
+    background-image: url(../images/header_bg.png);
     background-repeat: no-repeat;
     background-position: right bottom, left;
+
+}
+.text-img{
+    color: rgba(24.44, 24.44, 24.44, 0.15);
+    font-size: 100px;
+    font-weight: 700;
+    letter-spacing: 33px;
+    max-width: 774px;
+    max-height: 136px;
+    transform: rotate(-90deg);
+    margin-right: 1141px;
+    transform-origin: 0px 0px;
 }
 /* text-r style */
 nav #first-primary{
@@ -22,6 +34,15 @@ nav #first-primary{
     padding: 19px 35px;
     height: 64px;
     background-color:#FD6E0A ; 
+}
+.contact{
+    border-radius: 5px;
+     border: 1px #FD6E0A solid;
+     max-width: 160px;
+     max-height: 64px;
+     margin-left: 30px;
+     padding: 19px 35px;
+     background-color: #FFF8F3;
 }
 
 /* nav and header style */
