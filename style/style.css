@@ -342,3 +342,26 @@ padding-bottom: 30px;
     font-weight: 700;
     margin-bottom: 10px;
 }
+/* last button */
+.last-btn{ 
+    margin-top: 50px;
+    margin-left: 400px;
+    padding: 30px;
+    max-height: 64px;
+    background: #FD6E0A; 
+    border-radius: 5px;
+     padding-top: 19px; 
+    padding-bottom: 18px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.last-btn:hover{
+    color: #181818;
+    background-color: #FD6E0A;
+}
+.last-btn:active{
+    outline: 2px solid;
+    background-color: #FD6E0A;
+    box-shadow: 5px #474747 ;
+}
