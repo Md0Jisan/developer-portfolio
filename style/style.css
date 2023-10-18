@@ -267,37 +267,51 @@ padding-bottom: 30px;
 
 } 
 /* summery part last  */
+.r-body{
+     display: flex; 
+}
 .summery{
     text-align: center;
     color: #181818;
     font-size: 35px;
     font-weight: 700;
     margin-top: 130px;
+    margin-bottom: 140px;
 }
-.resume-h{
-    margin-top: 113px;
-    color: #474747;
+.r-b-head{
+     color: #474747;
     font-size: 30px;
-    font-weight: 700;
+    font-weight: 700px;
+    margin-bottom: 30px;
 }
-.resume-h2{
+.resume-p{
+   
+}
+.r-b-head2{
     color: #474747;
     font-size: 25px;
     font-weight: 700;
-    margin-top: 30px;
+    margin-bottom: 10px;
 }
-.resume-t{
+.r-item{
     color: #757575;
     font-size: 20px;
-    font-weight: 600;
-    margin-top: 10px;
+    font-weight: 600; 
+    margin-bottom: 20px;
 }
-.resume-t2{
+.r-items{
+    max-width: 511px;
+    max-height: 84px;
     color: #757575;
     font-size: 16px;
     font-weight: 400;
     line-height: 28px;
-    max-width: 511px;
-    max-height: 84px;
-    margin-top: 20px;
+
+}
+.r-b-heads2{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 60px;
 }
