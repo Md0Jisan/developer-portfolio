@@ -285,7 +285,7 @@ padding-bottom: 30px;
     margin-bottom: 30px;
 }
 .resume-p{
-   
+   margin-right: 71px;
 }
 .r-b-head2{
     color: #474747;
@@ -314,4 +314,31 @@ padding-bottom: 30px;
     font-weight: 700;
     margin-bottom: 10px;
     margin-top: 60px;
+}
+.summary{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.s-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.su-taittle{
+    max-width: 511px;
+    max-height: 84px;
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.summarys{
+    margin-top:60px ;
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
 }
